@@ -1,0 +1,73 @@
+{
+  "auth": {
+    "welcome": "Welcome to our application",
+    "loginSuccess": "Login successful",
+    "invalidCredentials": "Invalid username or password",
+    "enterEmail": "Please enter your email address",
+    "passwordRule": "Password must be at least 8 characters",
+    "accountCreated": "Account created successfully",
+    "sessionExpired": "Session expired, please login again"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "update": "Update",
+    "delete": "Delete"
+  },
+  "dashboard": {
+    "loading": "Loading data, please wait",
+    "noRecords": "No records found",
+    "searchResults": "Search results",
+    "overview": "Dashboard overview"
+  },
+  "profile": {
+    "updated": "Profile updated successfully",
+    "settingsSaved": "User settings saved"
+  },
+  "messages": {
+    "newMessage": "New message received",
+    "markRead": "Mark as read",
+    "markUnread": "Mark as unread"
+  },
+  "system": {
+    "error": "Error occurred while processing request",
+    "connectionLost": "Connection lost",
+    "reconnecting": "Reconnecting...",
+    "uploadFailed": "Upload failed",
+    "tryLater": "Try again later",
+    "pageNotFound": "Page not found",
+    "goHome": "Go back to home",
+    "maintenance": "System maintenance ongoing",
+    "versionUpdated": "Version updated",
+    "newFeatures": "New features available"
+  },
+  "support": {
+    "helpCenter": "Help center",
+    "contact": "Contact support"
+  },
+  "files": {
+    "uploadSuccess": "File uploaded successfully",
+    "downloadComplete": "Download completed"
+  },
+  "confirmation": {
+    "deleteConfirm": "Are you sure you want to delete?",
+	"privacy": "Privacy policy",
+  },
+  "legal": {
+    "terms": "Terms and conditions"
+  },
+  "payment": {
+    "processing": "Processing payment",
+    "success": "Payment successful",
+    "failed": "Payment failed"
+  },
+  "ecommerce": {
+    "addToCart": "Add to cart",
+    "removeFromCart": "Remove from cart",
+    "checkout": "Checkout",
+    "orderPlaced": "Order placed successfully",
+    "trackOrder": "Track your order"
+  }
+}

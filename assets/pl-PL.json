@@ -1,0 +1,73 @@
+{
+  "auth": {
+    "welcome": "Witamy w naszej aplikacji",
+    "loginSuccess": "Logowanie zakończone sukcesem",
+    "invalidCredentials": "Nieprawidłowa nazwa użytkownika lub hasło",
+    "enterEmail": "Proszę wprowadzić adres e-mail",
+    "passwordRule": "Hasło musi mieć co najmniej 8 znaków",
+    "accountCreated": "Konto zostało pomyślnie utworzone",
+    "sessionExpired": "Sesja wygasła, zaloguj się ponownie"
+  },
+  "common": {
+    "yes": "Tak",
+    "no": "Nie",
+    "cancel": "Anuluj",
+    "submit": "Wyślij",
+    "update": "Aktualizuj",
+    "delete": "Usuń"
+  },
+  "dashboard": {
+    "loading": "Ładowanie danych, proszę czekać",
+    "noRecords": "Nie znaleziono rekordów",
+    "searchResults": "Wyniki wyszukiwania",
+    "overview": "Przegląd panelu"
+  },
+  "profile": {
+    "updated": "Profil zaktualizowany pomyślnie",
+    "settingsSaved": "Ustawienia użytkownika zapisane"
+  },
+  "messages": {
+    "newMessage": "Otrzymano nową wiadomość",
+    "markRead": "Oznacz jako przeczytane",
+    "markUnread": "Oznacz jako nieprzeczytane"
+  },
+  "system": {
+    "error": "Error occurred while processing request",
+    "connectionLost": "Połączenie utracone",
+    "reconnecting": "Ponowne łączenie...",
+    "uploadFailed": "Przesyłanie nie powiodło się",
+    "tryLater": "Spróbuj ponownie później",
+    "pageNotFound": "Strona nie znaleziona",
+    "goHome": "Wróć do strony głównej",
+    "maintenance": "Trwa konserwacja systemu",
+    "versionUpdated": "Wersja zaktualizowana",
+    "newFeatures": "Dostępne nowe funkcje"
+  },
+  "support": {
+    "helpCenter": "Centrum pomocy",
+    "contact": "Skontaktuj się z pomocą"
+  },
+  "files": {
+    "uploadSuccess": "File uploaded successfully",
+    "downloadComplete": "Pobieranie zakończone"
+  },
+  "confirmation": {
+    "deleteConfirm": "Czy na pewno chcesz usunąć?"
+  },
+  "legal": {
+    "privacy": "Polityka prywatności",
+    "terms": "Warunki i zasady"
+  },
+  "payment": {
+    "processing": "Przetwarzanie płatności",
+    "success": "Płatność zakończona sukcesem",
+    "failed": "Płatność nie powiodła się"
+  },
+  "ecommerce": {
+    "addToCart": "Dodaj do koszyka",
+    "removeFromCart": "Usuń z koszyka",
+    "checkout": "Do kasy",
+    "orderPlaced": "Zamówienie złożone pomyślnie",
+    "trackOrder": "Śledź swoje zamówienie"
+  }
+}

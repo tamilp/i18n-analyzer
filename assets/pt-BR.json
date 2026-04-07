@@ -1,0 +1,74 @@
+{
+  "auth": {
+    "welcome": "Bem-vindo ao nosso aplicativo",
+    "loginSuccess": "Login realizado com sucesso",
+    "invalidCredentials": "Usuário ou senha inválidos",
+    "enterEmail": "Por favor, insira seu e-mail",
+    "passwordRule": "A senha deve ter pelo menos 8 caracteres",
+    "accountCreated": "Conta criada com sucesso",
+    "sessionExpired": "Sessão expirada, faça login novamente"
+  },
+  "common": {
+    "yes": "Sim",
+    "no": "Não",
+    "cancel": "Cancelar",
+    "submit": "Enviar",
+    "update": "Atualizar",
+    "delete": "Excluir"
+  },
+  "dashboard": {
+    "loading": "Carregando dados, aguarde",
+    "noRecords": "Nenhum registro encontrado",
+    "searchResults": "Resultados da pesquisa",
+    "overview": "Visão geral do painel"
+  },
+  "profile": {
+    "updated": "Perfil atualizado com sucesso",
+    "settingsSaved": "Configurações do usuário salvas"
+  },
+  "messages": {
+    "newMessage": "Nova mensagem recebida",
+    "markRead": "Marcar como lido",
+    "markUnread": "Marcar como não lido"
+  },
+  "system": {
+    "error": "Error occurred while processing request",
+    "connectionLost": "Conexão perdida",
+    "reconnecting": "Reconectando...",
+    "uploadFailed": "Falha no upload",
+    "tryLater": "Tente novamente mais tarde",
+    "pageNotFound": "Página não encontrada",
+    "goHome": "Voltar para a página inicial",
+    "maintenance": "Manutenção do sistema em andamento",
+    "versionUpdated": "Versão atualizada",
+    "newFeatures": "New features available"
+	"maintenancexyx": "New features available",
+  },
+  "support": {
+    "helpCenter": "Central de ajuda",
+    "contact": "Contato com suporte"
+  },
+  "files": {
+    "uploadSuccess": "Arquivo enviado com sucesso",
+    "downloadComplete": "Download concluído"
+  },
+  "confirmation": {
+    "deleteConfirm": "Tem certeza que deseja excluir?"
+  },
+  "legal": {
+    "privacy": "Política de privacidade",
+    "terms": "Termos e condições"
+  },
+  "payment": {
+    "processing": "Processando pagamento",
+    "success": "Pagamento realizado com sucesso",
+    "failed": "Falha no pagamento"
+  },
+  "ecommerce": {
+    "addToCart": "Adicionar ao carrinho",
+    "removeFromCart": "Remover do carrinho",
+    "checkout": "Finalizar compra",
+    "orderPlaced": "Pedido realizado com sucesso",
+    "trackOrder": "Rastrear seu pedido"
+  }
+}
