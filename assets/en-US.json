@@ -53,7 +53,7 @@
   },
   "confirmation": {
     "deleteConfirm": "Are you sure you want to delete?",
-	"privacy": "Privacy policy",
+	  "privacy": "Privacy policy"
   },
   "legal": {
     "terms": "Terms and conditions"
