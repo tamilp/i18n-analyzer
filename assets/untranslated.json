@@ -1,0 +1,24 @@
+{
+  "pl-PL.json": {
+    "system.error": "Error occurred while processing request",
+    "files.uploadSuccess": "File uploaded successfully",
+    "confirmation.privacy": "Privacy policy",
+    "legal.terms": "Terms and conditions <b> {{mainLAbel}} </b> Terms and conditions",
+    "ecommerce1.addToCart": "Add to cart",
+    "ecommerce1.removeFromCart": "Remove from cart",
+    "ecommerce1.checkout": "Checkout",
+    "ecommerce1.orderPlaced": "Order placed successfully",
+    "ecommerce1.trackOrder": "Track your order"
+  },
+  "pt-BR.json": {
+    "system.error": "Error occurred while processing request",
+    "system.newFeatures": "New features available",
+    "confirmation.privacy": "Privacy policy",
+    "legal.terms": "Terms and conditions <b> {{mainLAbel}} </b> Terms and conditions",
+    "ecommerce1.addToCart": "Add to cart",
+    "ecommerce1.removeFromCart": "Remove from cart",
+    "ecommerce1.checkout": "Checkout",
+    "ecommerce1.orderPlaced": "Order placed successfully",
+    "ecommerce1.trackOrder": "Track your order"
+  }
+}

@@ -52,11 +52,11 @@
     "downloadComplete": "Pobieranie zakończone"
   },
   "confirmation": {
-    "deleteConfirm": "Czy na pewno chcesz usunąć?"
+    "deleteConfirm": "Czy na pewno chcesz usunąć?",
+    "privacy": "Privacy policy"
   },
   "legal": {
-    "privacy": "Polityka prywatności",
-    "terms": "Warunki i zasady"
+    "terms": "Terms and conditions <b> {{mainLAbel}} </b> Terms and conditions"
   },
   "payment": {
     "processing": "Przetwarzanie płatności",
@@ -69,5 +69,15 @@
     "checkout": "Do kasy",
     "orderPlaced": "Zamówienie złożone pomyślnie",
     "trackOrder": "Śledź swoje zamówienie"
+  },
+  "ecommerce1": {
+    "addToCart": "Add to cart",
+    "removeFromCart": "Remove from cart",
+    "checkout": "Checkout",
+    "orderPlaced": "Order placed successfully",
+    "trackOrder": "Track your order",
+    "test": {
+      "checkout": "Checkout"
+    }
   }
 }

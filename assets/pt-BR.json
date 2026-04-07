@@ -41,8 +41,7 @@
     "goHome": "Voltar para a página inicial",
     "maintenance": "Manutenção do sistema em andamento",
     "versionUpdated": "Versão atualizada",
-    "newFeatures": "New features available",
-	  "maintenancexyx": "New features available"
+    "newFeatures": "New features available"
   },
   "support": {
     "helpCenter": "Central de ajuda",
@@ -53,11 +52,11 @@
     "downloadComplete": "Download concluído"
   },
   "confirmation": {
-    "deleteConfirm": "Tem certeza que deseja excluir?"
+    "deleteConfirm": "Tem certeza que deseja excluir?",
+    "privacy": "Privacy policy"
   },
   "legal": {
-    "privacy": "Política de privacidade",
-    "terms": "Termos e condições"
+    "terms": "Terms and conditions <b> {{mainLAbel}} </b> Terms and conditions"
   },
   "payment": {
     "processing": "Processando pagamento",
@@ -70,5 +69,15 @@
     "checkout": "Finalizar compra",
     "orderPlaced": "Pedido realizado com sucesso",
     "trackOrder": "Rastrear seu pedido"
+  },
+  "ecommerce1": {
+    "addToCart": "Add to cart",
+    "removeFromCart": "Remove from cart",
+    "checkout": "Checkout",
+    "orderPlaced": "Order placed successfully",
+    "trackOrder": "Track your order",
+    "test": {
+      "checkout": "Checkout"
+    }
   }
 }

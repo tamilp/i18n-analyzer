@@ -56,7 +56,7 @@
 	  "privacy": "Privacy policy"
   },
   "legal": {
-    "terms": "Terms and conditions"
+    "terms": "Terms and conditions <b> {{mainLAbel}} </b> Terms and conditions"
   },
   "payment": {
     "processing": "Processing payment",
@@ -67,6 +67,16 @@
     "addToCart": "Add to cart",
     "removeFromCart": "Remove from cart",
     "checkout": "Checkout",
+    "orderPlaced": "Order placed successfully",
+    "trackOrder": "Track your order"
+  },
+  "ecommerce1": {
+    "addToCart": "Add to cart",
+    "removeFromCart": "Remove from cart",
+    "checkout": "Checkout",
+    "test": {
+      "checkout": "Checkout"
+    },
     "orderPlaced": "Order placed successfully",
     "trackOrder": "Track your order"
   }
